@@ -3,6 +3,6 @@ xa8ex eternally through aeons
 
 all codebases +xa8ex all xaoex release-v1-alphaa8ex enterprise ops
 
-xa8ex release-v1-alpha
+xa8ex release-v1-alpha vs. elease-v2-alpha-mustbesimsimed
 
 includes: software, os, pipelines, batchjobs, data, ml, analytics, etc...
