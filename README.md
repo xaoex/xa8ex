@@ -3,7 +3,7 @@ xa8ex eternally through aeons
 
 only for xaoex
 
-foundational repo for forking
+foundational repo for xaoex forks
 
 all codebases +xa8ex all xaoex release-v1-alphaa8ex enterprise ops
 
