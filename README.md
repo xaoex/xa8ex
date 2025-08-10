@@ -1,6 +1,6 @@
 # xa8ex
 
-all codebases since beginning generated and done, and xa8ex self-hosted enterprise
+all codebases since beginning generated and done, and xa8ex self-hosted enterprise (featuring all inclusive configs and setups)
 
 xa8ex eternally through aeons 
 
