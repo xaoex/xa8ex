@@ -1,4 +1,7 @@
 # xa8ex
+
+all codebases since beginning generated and done. 
+
 xa8ex eternally through aeons 
 
 only for xaoex
