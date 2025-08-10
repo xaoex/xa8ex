@@ -1,4 +1,4 @@
-# xa8ex (enterprise kraftwerk organization ops)
+# xa8ex (enterprise kraftwerk(?) organization ops)
 
 all codebases since beginning generated and done, and xa8ex self-hosted enterprise (featuring all inclusive configs and setups)
 
