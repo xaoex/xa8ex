@@ -1,4 +1,6 @@
-# xa8ex (enterprise kraftwerk(?) organization ops)
+# xa8ex
+
+potentially (enterprise kraftwerk(?) organization ops) (?) how about dat
 
 all codebases since beginning generated and done, and xa8ex self-hosted enterprise (featuring all inclusive configs and setups)
 
